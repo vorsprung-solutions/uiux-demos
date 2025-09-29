@@ -7,7 +7,7 @@ These demos were designed with scalability, usability, and enterprise applicatio
 
 🔗 **Live Figma Designs:**  
 - [Admin Dashboard & Marketplace Demos](https://www.figma.com/design/mH6bz5Ru4PoLk4lsVCyZGN/Design-Samples?node-id=0-1&t=9LOrUo6zJt3WYi9L-1)  
-- [Deshi Masala UI/UX Design](https://www.figma.com/design/yJ3N7V8cMnuoANLfYI6lb8/Deshi-Masala?t=I33dgwhPrWLzpUEp-0)  
+- [Deshi Masala UI/UX Design](https://www.figma.com/design/yJ3N7V8cMnuoANLfYI6lb8/Deshi-Masala?node-id=0-1&p=f&t=I33dgwhPrWLzpUEp-0)  
 
 ---
 
